@@ -4,7 +4,9 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "serve": "npx @11ty/eleventy --serve",
+    "deploy": "npm run clean && npx @11ty/eleventy --pathprefix 'personal-blog' && gh-pages -d _site",
+    "clean": "rm -rf _site"
   },
   "keywords": [],
   "author": "",
@@ -12,5 +14,8 @@
   "type": "module",
   "dependencies": {
     "@11ty/eleventy": "^3.0.0"
+  },
+  "devDependencies": {
+    "gh-pages": "^6.3.0"
   }
 }
