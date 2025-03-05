@@ -1,0 +1,25 @@
+.post__content img {
+  padding: 1rem 0;
+}
+
+.post__content ul,
+.post__content ol {
+  margin-bottom: 3rem;
+}
+
+.post__content p {
+  margin-bottom: 3rem;
+}
+
+.post__content h1,
+.post__content h2,
+.post__content h3,
+.post__content h4,
+.post__content h5,
+.post__content h6 {
+  margin-bottom: 3rem;
+}
+
+.post__content {
+  margin-bottom: 20rem;
+}
