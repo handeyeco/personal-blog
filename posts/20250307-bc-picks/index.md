@@ -1,6 +1,6 @@
 ---
 title: Bandcamp Friday Picks
-description: Some Creative Commons music on Bandcamp that I like
+description: Some Creative Commons music on Bandcamp that I like - Fog Lake, ZINNIA, Big Blood
 date: 2025-03-07
 ---
 
