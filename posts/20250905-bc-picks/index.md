@@ -1,6 +1,6 @@
 ---
 title: Bandcamp Friday Picks 4
-description: Some Creative Commons music on Bandcamp that I like - Polze De La Mort, The Parrots, La URSS
+description: Some Creative Commons music on Bandcamp that I like - Perifèria Nord, The Parrots, La URSS
 date: 2025-09-05
 ---
 
@@ -8,11 +8,11 @@ Bandcamp Friday is today, September 5th, 2025. I always like to use these opport
 
 If you're interested in CC music, be sure to checkout the tool I made for finding CC music on BC: [cc-bc](https://handeyeco.github.io/cc-bc/).
 
-![Album art for Perifèria Nord by Polze De La Mort](./img/periferia-nord.jpg)
+![Album art for Perifèria Nord by Perifèria Nord](./img/periferia-nord.jpg)
 
-## Perifèria Nord by Polze De La Mort
+## Perifèria Nord by Perifèria Nord
 
-I was randomly browsing through [cc-bc](https://handeyeco.github.io/cc-bc/) links and noticed I was finding a lot of good stuff from Spain, so I thought I'd do a special Spain edition. First up, **Perifèria Nord** by Polze De La Mort. This short EP is dark, upbeat, post-punk goodness complete with dreamy guitars and lush pads over irresistibly danceable drums.
+I was randomly browsing through [cc-bc](https://handeyeco.github.io/cc-bc/) links and noticed I was finding a lot of good stuff from Spain, so I thought I'd do a special Spain edition. First up, the self-titled **Perifèria Nord**. This short EP is dark, upbeat, post-punk goodness complete with dreamy guitars and lush pads over irresistibly danceable drums.
 
 - [Bandcamp link](https://polzedelamort.bandcamp.com/album/perif-ria-nord-st)
 - Released in 2024
