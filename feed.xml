@@ -4,11 +4,53 @@
   <subtitle>Miscellaneous thoughts, news, and music picks.</subtitle>
   <link href="https://handeyeco.github.io/personal-blog/feed.xml" rel="self" />
   <link href="https://handeyeco.github.io/personal-blog/personal-blog/" />
-  <updated>2025-12-05T00:00:00Z</updated>
+  <updated>2026-03-06T00:00:00Z</updated>
   <id>https://handeyeco.github.io/personal-blog/personal-blog/</id>
   <author>
     <name>Aimless Blog</name>
   </author>
+  <entry>
+    <title>Bandcamp Friday Picks 7</title>
+    <link href="https://handeyeco.github.io/personal-blog/posts/20260306-bc-picks/" />
+    <updated>2026-03-06T00:00:00Z</updated>
+    <id>https://handeyeco.github.io/personal-blog/posts/20260306-bc-picks/</id>
+    <content type="html">&lt;p&gt;Bandcamp Friday is March 5th, 2026. I always like to use these opportunities to both find/support Creative Commons music and thought I&#39;d start sharing some of my picks.&lt;/p&gt;
+&lt;p&gt;I&#39;ve been doing a lot of work recently on my Creative Commons crawler for Bandcamp - I recently backfilled to remove links that result in 404s and I completely rewrote the crawler. Things seem to be going good although the crawler seems to really like &lt;a href=&quot;https://en.wikipedia.org/wiki/Harsh_noise#Harsh_noise_wall&quot;&gt;Harsh Noise Wall&lt;/a&gt; which I&#39;m not really into.&lt;/p&gt;
+&lt;p&gt;If you&#39;re interested in CC music, be sure to checkout the tool I made for finding CC music on BC: &lt;a href=&quot;https://handeyeco.github.io/cc-bc/&quot;&gt;cc-bc&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://handeyeco.github.io/personal-blog/posts/20260306-bc-picks/img/wiener-linien.jpg&quot; alt=&quot;Album art for Wiener Linien by Karl Kave &amp;amp; Durian&quot;&gt;&lt;/p&gt;
+&lt;h2&gt;Wiener Linien by Karl Kave &amp;amp; Durian&lt;/h2&gt;
+&lt;p&gt;Close, talk-singing vocals over rhythmic beats and vintage sounding synth pads, &lt;strong&gt;Wiener Linien&lt;/strong&gt; is post-punk / new wave group hailing from Switzerland. &lt;strong&gt;Wiender Linien&lt;/strong&gt; is polished and dreamy, but I would also recommend checking out their album &lt;strong&gt;La Vida Loca / Gurkensalat&lt;/strong&gt; (also BY-NC-SA) which is much more raw - reminding me of Suicide and Escape-ism.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://karlkavedurian.bandcamp.com/album/wiener-linien&quot;&gt;Bandcamp link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Released in 2024&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://creativecommons.org/licenses/by-nc-sa/4.0/&quot;&gt;CC BY-NC-SA&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;https://handeyeco.github.io/personal-blog/posts/20260306-bc-picks/img/motzen-trotzdem.jpg&quot; alt=&quot;Album art for Motzen Trotzdem by Grips und Schaden&quot;&gt;&lt;/p&gt;
+&lt;h2&gt;Motzen Trotzdem by Grips und Schaden&lt;/h2&gt;
+&lt;p&gt;One of the things I love about crawling Creative Commons albums is finding the Anarchist punk groups from around the world. In this case it&#39;s more Anarchist...folk polka? &lt;strong&gt;Motzen Trotzdem&lt;/strong&gt; by Germany&#39;s Grips und Schaden makes me think of malty beers in steins and singing along with the band at the bar - fun, loud, rowdy.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://gripsundschaden.bandcamp.com/album/motzen-trotzdem-2&quot;&gt;Bandcamp link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Released in 2022&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://creativecommons.org/licenses/by-nc-nd/4.0/&quot;&gt;CC BY-NC-ND&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;img src=&quot;https://handeyeco.github.io/personal-blog/posts/20260306-bc-picks/img/soliloquy-hymn-4.jpg&quot; alt=&quot;Album art for Soliloquy Hymn #4 by Caleb R.K. Williams &amp;amp; Ivonne Van Cleef&quot;&gt;&lt;/p&gt;
+&lt;h2&gt;Soliloquy Hymn #4 by Caleb R.K. Williams &amp;amp; Ivonne Van Cleef&lt;/h2&gt;
+&lt;p&gt;This one&#39;s a weird one - how about some LoFi, ambient, improvisational, western music. Well Ivonne Van Cleef has plenty to choose from. In a collaboration with Caleb R.K. Williams, &lt;strong&gt;Soliloquy Hymn #4&lt;/strong&gt; sounds like something an archivist might find while digging through old reel-to-reel soundtrack recordings found in some dusty Hollywood closet.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://ivonnevancleef.bandcamp.com/album/soliloquy-hymn-4&quot;&gt;Bandcamp link&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Released in 2024&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://creativecommons.org/licenses/by-nc-nd/4.0/&quot;&gt;CC BY-NC-ND&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Huh, just realized all the picks have either &amp;quot;und&amp;quot; or &amp;quot;&amp;amp;&amp;quot; in the artist name...&lt;/p&gt;
+&lt;p&gt;Some honorable mentions:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://wombs.bandcamp.com/album/unitopians&quot;&gt;Unitopians by Wombs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://wndv.bandcamp.com/album/pacification&quot;&gt;Pacification by Wanda &amp;amp; Nova deViator&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://benignolunar.bandcamp.com/album/la-religi-n-de-los-rboles&quot;&gt;La religión de los árboles by Benigno Lunar&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://lennyzenith.bandcamp.com/album/jenifer-convertible-speedracer-7&quot;&gt;Speedracer 7&amp;quot; by Jenifer Convertible&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+  </entry>
   <entry>
     <title>Bandcamp Friday Picks 6</title>
     <link href="https://handeyeco.github.io/personal-blog/posts/20251205-bc-picks/" />
