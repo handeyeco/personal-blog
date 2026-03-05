@@ -6,7 +6,7 @@ date: 2026-03-06
 
 Bandcamp Friday is March 5th, 2026. I always like to use these opportunities to both find/support Creative Commons music and thought I'd start sharing some of my picks.
 
-I've been doing a lot of work recently on my Creative Commons crawler for Bandcamp - I recently backfilled to remove links that result in 404s and I completely rewrote the crawler. Things seem to be going good although the crawler seems to really like [Harsh Noise Wall](https://en.wikipedia.org/wiki/Harsh_noise#Harsh_noise_wall) which I'm not really into.
+I've been doing a lot of work recently on my Creative Commons crawler for Bandcamp - I recently backfilled to remove 404s and I completely rewrote the main crawler. Things seem to be going good although the crawler seems to really like [Harsh Noise Wall](https://en.wikipedia.org/wiki/Harsh_noise#Harsh_noise_wall) which I'm not really into.
 
 If you're interested in CC music, be sure to checkout the tool I made for finding CC music on BC: [cc-bc](https://handeyeco.github.io/cc-bc/).
 
