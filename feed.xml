@@ -15,7 +15,7 @@
     <updated>2026-03-06T00:00:00Z</updated>
     <id>https://handeyeco.github.io/personal-blog/posts/20260306-bc-picks/</id>
     <content type="html">&lt;p&gt;Bandcamp Friday is March 5th, 2026. I always like to use these opportunities to both find/support Creative Commons music and thought I&#39;d start sharing some of my picks.&lt;/p&gt;
-&lt;p&gt;I&#39;ve been doing a lot of work recently on my Creative Commons crawler for Bandcamp - I recently backfilled to remove links that result in 404s and I completely rewrote the crawler. Things seem to be going good although the crawler seems to really like &lt;a href=&quot;https://en.wikipedia.org/wiki/Harsh_noise#Harsh_noise_wall&quot;&gt;Harsh Noise Wall&lt;/a&gt; which I&#39;m not really into.&lt;/p&gt;
+&lt;p&gt;I&#39;ve been doing a lot of work recently on my Creative Commons crawler for Bandcamp - I recently backfilled to remove 404s and I completely rewrote the main crawler. Things seem to be going good although the crawler seems to really like &lt;a href=&quot;https://en.wikipedia.org/wiki/Harsh_noise#Harsh_noise_wall&quot;&gt;Harsh Noise Wall&lt;/a&gt; which I&#39;m not really into.&lt;/p&gt;
 &lt;p&gt;If you&#39;re interested in CC music, be sure to checkout the tool I made for finding CC music on BC: &lt;a href=&quot;https://handeyeco.github.io/cc-bc/&quot;&gt;cc-bc&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://handeyeco.github.io/personal-blog/posts/20260306-bc-picks/img/wiener-linien.jpg&quot; alt=&quot;Album art for Wiener Linien by Karl Kave &amp;amp; Durian&quot;&gt;&lt;/p&gt;
 &lt;h2&gt;Wiener Linien by Karl Kave &amp;amp; Durian&lt;/h2&gt;
