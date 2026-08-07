@@ -22,7 +22,7 @@ This one is kind of hard to pin down: sounds to me like what you would get by mi
 
 ## Down With by The Wrong Society
 
-I'm just always a sucker for this kind of old-school garage rock and listening to **Down With** I couldn't help but dance. It's the classic sound we all love - raw recordings of overdriven guitars, crunchy drums, and lyrics about betrayal.
+I'm just always a sucker for this kind of old-school garage rock and while listening to **Down With** I couldn't help but dance. It's the classic sound we all love - raw recordings of overdriven guitars, crunchy drums, and lyrics about betrayal.
 
 - [Bandcamp link](https://thewrongsociety.bandcamp.com/album/down-with)
 - Released in 2023
